@@ -14,6 +14,13 @@
   <a href="https://your-website-link.com"><img src="https://img.shields.io/badge/Website-000000?logo=website&logoColor=white" alt="Website"></a>
 
 </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/tuga-yousif-495a27b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://huggingface.co/TugaYousif"><img src="https://img.shields.io/badge/HuggingFace-FFCC00?logo=huggingface&logoColor=white" alt="Hugging Face"></a>
+<a href="https://www.kaggle.com/tugakariem"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle"></a>
+<a href="https://bsky.app/profile/tugayousif.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1D9BF0?logo=bluesky&logoColor=white" alt="Bluesky"></a>
+<a href="https://your-website-link.com"><img src="https://img.shields.io/badge/Website-000000?logo=website&logoColor=white" alt="Website"></a>
+</p>
 
 
 <h3 align="left">👩‍💻  About Me</h3>
