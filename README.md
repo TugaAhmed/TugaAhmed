@@ -38,6 +38,6 @@ Passionate about using Machine Learning to advance mental health solutions and t
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugaahmed&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugaahmed&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ###
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tugaahmed)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=TugaAhmed)
 
 
