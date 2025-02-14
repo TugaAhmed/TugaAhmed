@@ -29,7 +29,11 @@ Passionate about using Machine Learning to advance mental health solutions and t
 - 🧠 Machine Learning: PyTorch, Tensorflow, Hugging Face , Sklearn
 - 🧪 Data Analysis: Pandas, NumPy, Matplotlib
 
-### 📊 All-Time GitHub Stats ###
+### 📊 All-Time GitHub Stats ### 
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=TugaAhmed&repo=github-visitors-badge&countColor=%2342A5F5)
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugaahmed&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugaahmed&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
