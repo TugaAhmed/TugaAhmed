@@ -20,7 +20,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###  
-**Software Developer | Machine Learning Practitioner | Researcher**  
+**Software Developer | Machine Learning and VR Practitioner | Computational Neuroscience Researcher**  
 Passionate about using Machine Learning to advance mental health solutions and to understand how the brain works 🧠 
 
 
