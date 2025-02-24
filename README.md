@@ -25,7 +25,7 @@ Passionate about using Machine Learning to advance mental health solutions and t
 
 
 ### 🛠️ Skills & Tools:
-- 💻 Programming: Python, Django , Django REST , C# , Unity3D
+- 💻 Programming: Python, Django , Django REST , C# , Unity3D , Odoo
 - 🧠 Machine Learning: PyTorch, Tensorflow, Hugging Face , Sklearn
 - 🧪 Data Analysis: Pandas, NumPy, Matplotlib
 
